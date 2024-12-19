@@ -335,3 +335,7 @@ So we will let the model do forecasting based on last 30 days, and we will going
 5. Portfolio optimization
 
 <img src="simulation/portfolio-optimization.png" width="40%" align="">
+
+# Updated README
+This is a modified version of the project.
+
